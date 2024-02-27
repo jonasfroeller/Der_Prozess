@@ -12,6 +12,10 @@ Note to myself: comment out NOTES for marp exports
 -->
 
 <style>
+	.text-left {
+		  text-align: left;
+	}
+	
 	.qr-code {
 		  position: absolute;
 		  top: 2rem;
@@ -88,12 +92,12 @@ Der Process - von Franz Kafka
 
 # Franz Kafka
 
-* **geboren** am 3.7.1883 in Prag <!-- element class="fragment" -->
-* **gestorben** am 3.6.1924 in Klosterneuburg, Kierling <!-- element class="fragment" -->
-* **Religion**: Judentum <!-- element class="fragment" -->
-* **Ausbildung**: u.a. Jurastudium <!-- element class="fragment" -->
-* **Beruf**: Versicherungsangestellter <!-- element class="fragment" -->
-* **Vater**: dominant <!-- element class="fragment" -->
++ **geboren** am 3.7.1883 in Prag 
++ **gestorben** am 3.6.1924 in Klosterneuburg, Kierling
++ **Religion**: Judentum
++ **Ausbildung**: u.a. Jurastudium
++ **Beruf**: Versicherungsangestellter
++ **Vater**: dominant
 
 NOTES:
 **Franz Kafka** erblickt am 3.7.1883 in Prag das Licht der Welt.  
@@ -137,13 +141,13 @@ https://www.franzkafka.de/leben/freunde
 
 # Der Process
 
-* Startschuss: Sommer 1914 <!-- element class="fragment" -->
-	* er schreibt Beginn und Schluss <!-- element class="fragment" -->
-* **mehrere** Kapitel gleichzeitig <!-- element class="fragment" -->
-* Arbeit **stockt** im November <!-- element class="fragment" -->
-* Arbeit **verworfen** im Januar 1915 <!-- element class="fragment" -->
-* **Manuskriptlänge**: 171 Seiten <!-- element class="fragment" -->
-* Max Brod, ein Freund von Kafka veröffentlichte das unvollendete Werk schließlich **gegen den letzten Willen** von Kafka <!-- element class="fragment" -->
++ Startschuss: Sommer 1914
+	+ er schreibt Beginn und Schluss
++ **mehrere** Kapitel gleichzeitig
++ Arbeit **stockt** im November 
++ Arbeit **verworfen** im Januar 1915
++ **Manuskriptlänge**: 171 Seiten
++ Max Brod, ein Freund von Kafka veröffentlichte das unvollendete Werk schließlich **gegen den letzten Willen** von Kafka
 
 NOTES:
 * ab dem Sommer 1914 arbeitete Kafka an dem Buch
@@ -166,10 +170,10 @@ und ist sein weltweit bekanntestes, meistzitiertes Werk.
 
 # Fakten zum Buch
 
-* **Titel**: Der Process <!-- element class="fragment" -->
-* **Textgattung**: Roman <!-- element class="fragment" -->
-* **Literarische Strömung**: Keine, oder Modernismus (Absurdismus, Expressionismus, Existentialismus) <!-- element class="fragment" -->
-* **Erzählperspektive**: personaler Erzähler <!-- element class="fragment" -->
++ **Titel**: Der Process
++ **Textgattung**: Roman
++ **Literarische Strömung**: Keine, oder Modernismus (Absurdismus, Expressionismus, Existentialismus)
++ **Erzählperspektive**: personaler Erzähler
 
 NOTES:
 Das Buch, **der Prozess** ist ein **Roman**.  
@@ -219,13 +223,13 @@ Die Ironie und der absurde Humor des Romans entstehen aus der Frustration, nicht
 
 # Stoff
 
-* **biografischer Anlass**: Auflösung der Verlobung mit Felice Bauer <!-- element class="fragment" -->
-* Kafkas kämpfe mit <!-- element class="fragment" -->
-	* Identität <!-- element class="fragment" -->
-	* Gesellschaft <!-- element class="fragment" -->
-* totalitär regierte Staaten <!-- element class="fragment" -->
-* erster Weltkrieg <!-- element class="fragment" -->
-* Traum von einer Schriftstellerexistenz <!-- element class="fragment" -->
++ **biografischer Anlass**: Auflösung der Verlobung mit Felice Bauer
++ Kafkas kämpfe mit
+	+ Identität
+	+ Gesellschaft
++ totalitär regierte Staaten
++ erster Weltkrieg
++ Traum von einer Schriftstellerexistenz
 
 NOTES:
 _Der Process_ gehört zu denjenigen Werken Kafkas, bei denen sich ein unmittelbarer biografischer Anlass nachweisen lässt: die Auflösung der Verlobung mit [Felice Bauer](https://www.franzkafka.de/leben/frauen/felice-bauer).  
@@ -252,11 +256,11 @@ Auch der Bankangestellte Joseph K. hat ein geregeltes Leben. Er wohnt in der Pen
 # Hintergrund
 ## Soziokulturell/Biografisch
 
-- Beamter im Arbeiterunfallversicherungsinstitut <!-- element class="fragment" -->
-- tschechischer Bürger im österreichisch-ungarischen Reich. <!-- element class="fragment" -->
-- Persönliche Entfremdung <!-- element class="fragment" -->
-- Literatur vs. bürgerlichem Leben. <!-- element class="fragment" -->
-- Tod durch Tuberkulose. <!-- element class="fragment" -->
++ Beamter im Arbeiterunfallversicherungsinstitut
++ tschechischer Bürger im österreichisch-ungarischen Reich.
++ Persönliche Entfremdung
++ Literatur vs. bürgerlichem Leben.
++ Tod durch Tuberkulose. 
 
 NOTES:
 - Kafka war Beamter im Arbeiterunfallversicherungsinstitut für das Königreich Böhmen.
@@ -273,12 +277,12 @@ Diese persönlichen Erfahrungen und seine scharfe Kritik an der Bürokratie sein
 # Hintergrund
 ## Soziokulturell/Historisch
 
-- entstand während des Ersten Weltkriegs. <!-- element class="fragment" -->
-- Nationalismus und Feindseligkeit im österreichisch-ungarischen Reich. <!-- element class="fragment" -->
-	- Konflikte zwischen drei Hauptbevölkerungsgruppen: <!-- element class="fragment" -->
-		- den Tschechen, <!-- element class="fragment" -->
-		- den Deutsch-Österreichern und <!-- element class="fragment" -->
-		- den Juden. <!-- element class="fragment" -->
++ entstand während des Ersten Weltkriegs. 
++ Nationalismus und Feindseligkeit im österreichisch-ungarischen Reich. 
+	+ Konflikte zwischen drei Hauptbevölkerungsgruppen: 
+		+ den Tschechen, 
+		+ den Deutsch-Österreichern und 
+		+ den Juden. 
 
 NOTES:
 - Wie bereits erwähnt entstand "Der Process" während des Ersten Weltkriegs.
@@ -312,10 +316,10 @@ NOTES:
 
 # (Zeit)Verlauf
 
-- **Zeit**: vermutlich in den frühen 1900ern <!-- element class="fragment" -->
-- **Zeitverlauf**: <!-- element class="fragment" -->
-	* **Erzählte Zeit**: Geburtstag - Tod Joseph K.'s (ca. ein Jahr) <!-- element class="fragment" -->
-	* **Erzählzeit**: 6-10h <!-- element class="fragment" -->
++ **Zeit**: vermutlich in den frühen 1900ern
++ **Zeitverlauf**:
+	+ **Erzählte Zeit**: Geburtstag - Tod Joseph K.'s (ca. ein Jahr) 
+	+ **Erzählzeit**: 6-10h 
 
 NOTES:
 - Zeit: vermutlich in den frühen 1900er Jahren (nicht explizit genannt)
@@ -328,15 +332,15 @@ NOTES:
 
 # Raum und Milieu
 
-- **Raum**: <!-- element class="fragment" -->
-	- K.'s Pension, <!-- element class="fragment" -->
-	- Gerichtsbüros, <!-- element class="fragment" -->
-	- Bank, <!-- element class="fragment" -->
-	- Advokaten Wohnung, <!-- element class="fragment" -->
-	- Maler Atelier & Dom <!-- element class="fragment" -->
-- **Milieu**: <!-- element class="fragment" -->
-	- obere Mittelklasse <!-- element class="fragment" -->
-	- armen Viertel <!-- element class="fragment" -->
++ **Raum**:
+	+ K.'s Pension,
+	+ Gerichtsbüros,
+	+ Bank, 
+	+ Advokaten Wohnung, 
+	+ Maler Atelier & Dom 
++ **Milieu**:
+	+ obere Mittelklasse 
+	+ armen Viertel
 
 NOTES:
 **Schauplätze** sind der private und berufliche Lebensbereich Josef K.’s sowie die Örtlichkeiten, an die er durch seine »Prozesssituation« zu gehen veranlasst wird.  
@@ -358,10 +362,10 @@ Vermutlich spielt sich alles in einer Stadt in Mitteleuropa, vielleicht Prag, Ka
 
 # Sprache
 
-- **Sprache**: <!-- element class="fragment" -->
-	- präzise, nüchtern, sachlich, unbeteiligt, aber nicht emotionslos <!-- element class="fragment" -->
-	- keine "schwierigen" Wörter <!-- element class="fragment" -->
-	- monoperspektivisches, personales Erzählen <!-- element class="fragment" -->
++ **Sprache**: 
+	+ präzise, nüchtern, sachlich, unbeteiligt, aber nicht emotionslos 
+	+ keine "schwierigen" Wörter
+	+ monoperspektivisches, personales Erzählen 
 
 NOTES:
 - Sprache: 
@@ -374,15 +378,15 @@ NOTES:
 
 # Figurencharakteristik
 
-* **Josef K.**: <!-- element class="fragment" -->
-	* Karrierebeamter, Standesdünkel, <!-- element class="fragment" -->
-	* selbstzufrieden, überheblich <!-- element class="fragment" -->
-* **Advokat Huld**: <!-- element class="fragment" -->
-	* alt, krank, <!-- element class="fragment" -->
-	* dominant <!-- element class="fragment" -->
-* **Leni**: <!-- element class="fragment" -->
-	* dominant, <!-- element class="fragment" -->
-	* sexuell-animalisch <!-- element class="fragment" -->
++ **Josef K.**:
+	+ Karrierebeamter, Standesdünkel,
+	+ selbstzufrieden, überheblich 
++ **Advokat Huld**: 
+	+ alt, krank,
+	+ dominant
++ **Leni**:
+	+ dominant,
+	+ sexuell-animalisch
 
 NOTES:
 * **Josef K.**:
