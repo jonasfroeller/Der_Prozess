@@ -278,7 +278,6 @@ Diese persönlichen Erfahrungen und seine scharfe Kritik an der Bürokratie sein
 ## Soziokulturell/Historisch
 
 + entstand während des Ersten Weltkriegs. 
-+ Nationalismus und Feindseligkeit im österreichisch-ungarischen Reich. 
 	+ Konflikte zwischen drei Hauptbevölkerungsgruppen: 
 		+ den Tschechen, 
 		+ den Deutsch-Österreichern und 
@@ -324,9 +323,9 @@ NOTES:
 NOTES:
 - Zeit: vermutlich in den frühen 1900er Jahren (nicht explizit genannt)
 - Zeitverlauf: 
-	* Erzählte Zeit: Geburtstag - Tod Joseph K.'s (etwa ein Jahr später)
-	* Erzählzeit: 6-10h, das Hörbuch dauert zwischen 7h 30min und 8h 50min, je nach Sprecher
-	* Auffälligkeiten: chronologisch, bis auf die Fragmente
+	- Erzählte Zeit: Geburtstag - Tod Joseph K.'s (etwa ein Jahr später)
+	- Erzählzeit: 6-10h, das Hörbuch dauert zwischen 7h 30min und 8h 50min, je nach Sprecher
+	- Auffälligkeiten: chronologisch, bis auf die Fragmente
 
 ---
 
