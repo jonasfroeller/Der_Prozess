@@ -93,41 +93,38 @@ Der Process - von Franz Kafka
 # Franz Kafka
 
 + **geboren** am 3.7.1883 in Prag 
-+ **gestorben** am 3.6.1924 in Klosterneuburg, Kierling
 + **Religion**: Judentum
 + **Ausbildung**: u.a. Jurastudium
 + **Beruf**: Versicherungsangestellter
-+ **Vater**: dominant
++ **gestorben** am 3.6.1924 in Klosterneuburg, Kierling
 
 NOTES:
-**Franz Kafka** erblickt am 3.7.1883 in Prag das Licht der Welt.  
-
 Leben:  
-- **1883**: Geburt in Prag als erstes Kind von Hermann Kafka und Julie Kafka
+- **1883**: **Franz Kafka** erblickt am 3.7.1883 in Prag das Licht der Welt. Er wahr das erste Kind von Hermann- und Julie Kafka (1)
 - **1885-1892**: 
-	- Geburt von Geschwistern,
-	- Schulbesuch.
-- **1901**: Beginn seines Jura-Studiums an einer Prager Universität.
+	- Geschwister wurden geboren
+	- Wuchs in einem jüdischen Haushalt auf (2)
+- **1901**: Begann sein Jura-Studium an einer Prager Universität. (3)
 - **1906-1907**: 
-	- Arbeit bei Versicherungsgesellschaften und 
-	- erste literarische Veröffentlichungen.
+	- Arbeitete er bei verschiedenen Versicherungsgesellschaften als Versicherungsbeamter und (4)
+	- Verfasste erste literarische Werke.
 - **1910-1913**: 
-	- Reisen nach Paris und in die Schweiz, 
-	- intensive Schreibphase, Bücher darunter "Der Verschollene" und "Die Verwandlung".
+	- Reiste er viel in Paris und in der Schweiz, 
+	- Seine intensive Schreibphase begann
+		- "Der Verschollene"
+		- "Die Verwandlung".
 - **1914-1918**: 
-	- Erste Verlobung, 
-	- Krankheiten, 
-	- Arbeit am "Prozess" und 
-	- Erster Weltkrieg
+	- Erste Verlobung, die kurz darauf aufgelöst wurde, 
+	- Arbeit am Buch "Der Prozess" und 
+	- Zeit des ersten Weltkriegs
 		- Einstufung "_unverzichtbar_", von seinem Arbeitgeber => deshalb blieb er Zuhause
 - **1919-1922**: 
 	- Wechselnde Beziehungen, 
-	- gesundheitliche Probleme und 
-	- intensive Schreibphasen.
+	- Gesundheitliche Probleme körperlicher und geistiger Natur und 
 - **1923-1924**: 
-	- Umzug nach Berlin, 
+	- Zog nach Berlin, 
 	- Verschlechterung seines Gesundheitszustands und 
-	- Tod (41) am 3. Juni 1924 in Kierling bei Klosterneuburg.
+	- Am 3. Juni 1924 starb er schließlich an Tuberkulose in Kierling bei Klosterneuburg im Alter von 41 Jahren. (5)
 
 Kafka hinterließ ein bedeutendes literarisches Erbe, das vor allem durch seine einzigartige Herangehensweise an existenzielle Themen und seine künstlerische Darstellung von Macht, Identität und Isolation geprägt ist.
 
@@ -187,18 +184,12 @@ Je nachdem wen man fragt, wird man eine andere Antwort erhalten.
 
 Die **Erzählperspektive** ist die eines personalen Erzählers.
 
-Was macht den Prozess, zu einem solchen Urwerk der Moderne? (_Einleitung in die Interpretation_)  Seit bald hundert Jahren ist der Text immer wieder neu und immer wieder anders interpretiert worden, 
-* theologisch, 
-* existentialistisch, 
-* psychoanalytisch. 
+*kurze Pause*
 
-Kafka hat es mit diesem Werk geschafft, viele Menschen für die Folgenden Fragen zu begeistern:  
-Gibt es ein oberstes Gesetz, sollte es eines geben?  
-Gibt es das Böse?  
-Oder -  
-ist Kafkas Niederschrift in erster Linie eine subtile Kritik an 
-* bürokratischer Macht und 
-* an Herrschaftsstrukturen?
+Aber was macht den Prozess, zu einem solchen Urwerk der Moderne? (_Einleitung in die Interpretation_)  Seit bald hundert Jahren ist der Text immer wieder neu und immer wieder anders interpretiert worden, 
+* theologisch (religiöse Fragen), 
+* existentialistisch (Bedeutung der individuellen Existenz), 
+* psychoanalytisch (Bedeutung von Träumen und anderen unbewussten Gedankengängen). 
 
 ---
 
@@ -215,9 +206,9 @@ ist Kafkas Niederschrift in erster Linie eine subtile Kritik an
 NOTES:
 Was will Kafka sagen?  
 
-“Der Process” ist eine tiefgründige Untersuchung der Bürokratie und der Macht Strukturen von Gerichten.  
-Der Roman zeigt die Frustration und das Leiden, die durch ein undurchsichtiges und unergründliches bürokratisches Rechtssystem verursacht werden.  
-Die Ironie und der absurde Humor des Romans entstehen aus der Frustration, nicht zu wissen, warum Josef K. all dies überhaupt ertragen muss.
+“Der Process” ist eine tiefgründige Untersuchung der Bürokratie und der Macht Strukturen von Gerichten. (1)
+Der Roman zeigt die Frustration und das Leiden, die durch ein undurchsichtiges (2) und unergründliches bürokratisches (3) Rechtssystem (4) verursacht werden.  
+Die Ironie und der absurde Humor des Romans entstehen aus der Frustration (5), nicht zu wissen, warum Josef K. all dies überhaupt ertragen muss.
 
 ---
 
@@ -232,24 +223,15 @@ Die Ironie und der absurde Humor des Romans entstehen aus der Frustration, nicht
 + Traum von einer Schriftstellerexistenz
 
 NOTES:
-_Der Process_ gehört zu denjenigen Werken Kafkas, bei denen sich ein unmittelbarer biografischer Anlass nachweisen lässt: die Auflösung der Verlobung mit [Felice Bauer](https://www.franzkafka.de/leben/frauen/felice-bauer).  
-Kafka hat diese Trennung vor allem deshalb als traumatisch erlebt, weil sie sich in Anwesenheit zweier Zeuginnen abspielte, die ihm im Hotel ›Askanischer Hof‹ in Berlin wie Geschworene gegenüber saßen. Dass sich hier dem Juristen Kafka die Metaphorik des Gerichts aufdrängte, ist naheliegend.
+Der **biografischer Anlass**, dass Buch zu schreiben könnte die Auflösung der Verlobung mit Felice Bauer sein.
 
-“Der Process” spiegelt zudem Kafkas eigene Kämpfe mit Identität und Gesellschaft wider.
+Denn Kafka hat diese Trennung vor allem deshalb als traumatisch erlebt, weil sie sich in Anwesenheit zweier Zeugen abspielte, die ihm im Hotel ›Askanischer Hof‹ in Berlin wie Geschworene gegenüber saßen. Dass sich hier dem Juristen Kafka die Metaphorik des Gerichts aufdrängte, ist naheliegend. (1)
 
-Das Werk entstand in den Anfängen des ersten Weltkriegs, daher ist es auch nicht weit hergeholt, dass Kafka mit dem Buch totalitäre Systeme kritisieren wollte.
+“Der Process” spiegelt zudem Kafkas eigene Kämpfe mit Identität (2) und der Gesellschaft (3) wider.
 
-Auch träumte der Autor zeitlebens von einer Schriftstellerexistenz und versuchte diese vor allem auch mit dem Prozess wahr zu machen.
+Das Werk entstand in den Anfängen des ersten Weltkriegs, daher ist es auch nicht weit hergeholt, dass Kafka mit dem Buch totalitäre Systeme kritisieren wollte. (4)
 
-
-WENN NOCH ZEIT IST:
-
-Auch Selbstentfremdung, Vernichtungsängste, Desorientierung, Anonymität und die aktenmäßige ›Erfassung‹ des Menschen. Vor allem Kafkas Verfahren, das jeweils Nächstliegende mit fotografischer Genauigkeit zu schildern, den Sinn des Ganzen jedoch völlig im Dunkeln zu lassen, spiegelt genau das Lebensgefühl in großen sozialen Systemen, in denen jeder ›informiert‹ ist, die jedoch jenseits des eigenen Funktionierens keinen ›Sinn‹ mehr vermitteln.
-
-
-Es gibt auch **biografische Parallelen** zwischen Autor und Figur. Als er die ersten Zeilen seines Romanfragments schrieb, war Kafka schon seit sechs Jahren bei der "Arbeiter-Unfall-Versicherungs-Anstalt für das Königreich Böhmen in Prag" angestellt. Vom Kriegsdienst wird er zurückgestellt, seine Vorgesetzten halten ihn für unentbehrlich. Noch bis 1922 bleibt er Büroangestellter, das gibt ihm nicht nur materiell, sondern auch psychisch Sicherheit. Denn als Schriftsteller hielt er sich immer wieder für einen Versager. Bei den Frauen hat Kafka dagegen durchaus Erfolg. Sie locken ihn oft, schreibt er an seinen Freund Max Brod. Gemeinsam mit ihm besucht er auch öfters Bordelle und trifft junge Frauen, "Ladenmädchen", wie er sie nennt.
-
-Auch der Bankangestellte Joseph K. hat ein geregeltes Leben. Er wohnt in der Pension einer Frau Grubach, ist ganz auf seine Arbeit konzentriert. Einmal in der Woche besucht er Else, die Kellnerin in einer Weinstube, nach ihrem Dienst - dann kommt er spät nach Hause. Seine Freizeit verbringt er mit Spaziergängen und mit anderen Honoratioren am Stammtisch.
+Auch träumte der Autor zeitlebens von einer Schriftstellerexistenz und versuchte diese vor allem auch mit dem Prozess wahr zu machen. (5)
 
 ---
 
@@ -257,19 +239,16 @@ Auch der Bankangestellte Joseph K. hat ein geregeltes Leben. Er wohnt in der Pen
 ## Soziokulturell/Biografisch
 
 + Beamter im Arbeiterunfallversicherungsinstitut
++ Er hatte Erfolg bei Frauen
 + tschechischer Bürger im österreichisch-ungarischen Reich.
-+ Persönliche Entfremdung
 + Literatur vs. bürgerlichem Leben.
-+ Tod durch Tuberkulose. 
 
 NOTES:
 - Kafka war Beamter im Arbeiterunfallversicherungsinstitut für das Königreich Böhmen.
-- Er war ein tschechischer Bürger im österreichisch-ungarischen Reich.
-- Persönliche Entfremdung von seinem pragmatischen Vater, seiner Arbeit und vom anderen Geschlecht erfahren.
+- Er hatte viel Erfolg bei Frauen
+- Er war ein tschechischer Bürger im österreichisch-ungarischen Reich
 - War hin- und hergerissen zwischen Literatur und bürgerlichem Leben.
 
-**Biographische Entstehungsbedingungen**:  
-Franz Kafka schrieb “Der Process” während seiner Zeit als Beamter im Arbeiterunfallversicherungsinstitut für das Königreich Böhmen. Er war ein tschechischer Bürger im österreichisch-ungarischen Reich, ein Deutschsprecher unter Tschechen, ein Jude unter Deutschsprechern und ein Ungläubiger unter Juden. Er fühlte sich von seinem pragmatischen und herrschsüchtigen Vater, von seiner bürokratischen Arbeit und vom anderen Geschlecht entfremdet. Er war hin- und hergerissen zwischen dem Wunsch, in der Literatur zu leben, und dem Wunsch, ein normales bürgerliches Leben zu führen.  
 Diese persönlichen Erfahrungen und seine scharfe Kritik an der Bürokratie seiner Zeit spiegeln sich in “Der Process” wider.
 
 ---
@@ -277,52 +256,44 @@ Diese persönlichen Erfahrungen und seine scharfe Kritik an der Bürokratie sein
 # Hintergrund
 ## Soziokulturell/Historisch
 
-+ entstand während des Ersten Weltkriegs. 
-	+ Konflikte zwischen drei Hauptbevölkerungsgruppen: 
-		+ den Tschechen, 
-		+ den Deutsch-Österreichern und 
-		+ den Juden. 
++ Entstand während des Ersten Weltkriegs. 
++ Nationalismus und Feindseligkeit
 
 NOTES:
-- Wie bereits erwähnt entstand "Der Process" während des Ersten Weltkriegs.
-- Nationalismus und Feindseligkeit im österreichisch-ungarischen Reich wahren präsente Themen dieser Zeit => Konflikte zwischen den drei Hauptbevölkerungsgruppen: 
-	- den Tschechen, 
-	- den Deutsch-Österreichern und 
-	- den Juden.
-
-
-**Historische Entstehungsbedingungen**:  
-Kafka schrieb das Buch während des Ersten Weltkriegs, einer Zeit großer politischer und sozialer Umwälzungen. Während seiner prägenden Jahre war der Nationalismus im gesamten österreichisch-ungarischen Reich auf dem Vormarsch, was zur Feindseligkeit führte, die in den Ersten Weltkrieg mündete. Obwohl es keine direkte Zensur gab, kann man in “Der Process” eine satirische Anprangerung der österreichisch-ungarischen Bürokratie von Kafkas Zeit sehen.
+- In dieser Zeit war der Nationalismus im gesamten österreichisch-ungarischen Reich war auf dem Vormarsch, was zur Feindseligkeit führte, die in den Ersten Weltkrieg mündete.
+- Wie bereits erwähnt entstand "Der Process" foglich im Ersten Weltkriegs.
 
 ---
 
 # Motive
 
-1. Gerechtigkeit gegen das Gesetz <!-- element class="fragment" -->
+1. Gerechtigkeit <!-- element class="fragment" -->
 2. Das Absurde <!-- element class="fragment" -->
 3. Das Unbekannte <!-- element class="fragment" -->
-4. Entfremdung und Kontrolle <!-- element class="fragment" -->
 5. Sex und Verführung <!-- element class="fragment" -->
 
 NOTES:
-1. **Gerechtigkeit gegen das Gesetz**: Der zentrale Konflikt von “Der Process” ist Josef K.'s Kampf gegen das Gesetz. Er steht wegen eines unbekannten Verbrechens vor Gericht, und sein Prozess soll angeblich dazu dienen, Gerechtigkeit zu gewährleisten. Allerdings scheint es wenig Gerechtigkeit in der Behandlung zu geben, die Josef erhält.
-2. **Das Absurde**: Das Gesetz in “Der Process” ist irrational, unverständlich und daher absurd. Je mehr Josef K. versucht, seinen Fall rational zu verfolgen, desto mehr verstrickt er sich in Irrationalität.
-3. **Das Unbekannte**: Josef K. weiß nicht, weshalb er angeklagt wurde, zumindest beteuert er das.
-4. **Entfremdung und Kontrolle**: Es gibt keine Zusammenarbeit oder Kameradschaft in "Der Process". Jeder Einzelne handelt als isolierter Agent, und die Menschen konzentrieren sich darauf, sich selbst und andere zu kontrollieren, um persönliche Wünsche zu erfüllen.
-5. **Sex und Verführung**: “Der Process” ist voll von offener Sexualität. Ein großer Teil der weiblichen Charaktere, wie Leni, versucht, Josef zu verführen oder wird von ihm als potenzielle sexuelle Eroberungen betrachtet.
+1. **Gerechtigkeit**:
+	1. Ist es Gerecht, nicht einmal den Grund einer Anklage gegen einen zu erfahren?
+2. **Das Absurde**:
+	1. Obwohl Josef K. nicht zu wissen scheint, weshalb er angeklagt wurde, scheint es ihn absurder Weise nicht wirklich zu kümmern.
+3. **Das Unbekannte**:
+	1. Josef K. weiß nicht, weshalb, oder von wem er angeklagt wurde, zumindest beteuert er das.
+5. **Sex und Verführung**: 
+	1. Ein großer Teil der weiblichen Charaktere, wie Leni, versucht, Josef zu verführen oder wird von ihm als potenzielle sexuelle Eroberungen betrachtet.
 
 ---
 
 # (Zeit)Verlauf
 
-+ **Zeit**: vermutlich in den frühen 1900ern
++ **Zeit**: vermutlich im 19. Jh.
 + **Zeitverlauf**:
 	+ **Erzählte Zeit**: Geburtstag - Tod Joseph K.'s (ca. ein Jahr) 
 	+ **Erzählzeit**: 6-10h 
 
 NOTES:
-- Zeit: vermutlich in den frühen 1900er Jahren (nicht explizit genannt)
-- Zeitverlauf: 
+- Zeit: Abspielen tut sich die Geschichte vermutlich im 19. Jh. (nicht explizit genannt)
+- kommen wir zum Zeitverlauf: 
 	- Erzählte Zeit: Geburtstag - Tod Joseph K.'s (etwa ein Jahr später)
 	- Erzählzeit: 6-10h, das Hörbuch dauert zwischen 7h 30min und 8h 50min, je nach Sprecher
 	- Auffälligkeiten: chronologisch, bis auf die Fragmente
@@ -335,11 +306,11 @@ NOTES:
 	+ K.'s Pension,
 	+ Gerichtsbüros,
 	+ Bank, 
-	+ Advokaten Wohnung, 
 	+ Maler Atelier & Dom 
+	+ Advokaten Wohnung
 + **Milieu**:
-	+ obere Mittelklasse 
-	+ armen Viertel
+	+ **Josef**: obere Mittelklasse 
+	+ **Gericht**: armen Viertel
 
 NOTES:
 **Schauplätze** sind der private und berufliche Lebensbereich Josef K.’s sowie die Örtlichkeiten, an die er durch seine »Prozesssituation« zu gehen veranlasst wird.  
@@ -347,14 +318,13 @@ NOTES:
 	- K.'s Pension
 	- Gerichtsbüros (Sitzungssaal, Kanzleien)
 	- Bank
-	- Maler Atelier (Titorelli)
-	- Dom (Priester)
+	- Maler Atelier (Titorelli) & Dom (Priester)
 	- Advokaten Wohnung (Huld)
+
 Vermutlich spielt sich alles in einer Stadt in Mitteleuropa, vielleicht Prag, Kafkas Heimatstadt ab.
 
 - **Milieu**: 
-	- moderne Bürokratische Stadt, 
-	- Josef gehört zur oberen Mittelklasse
+	- das einer modernen Bürokratische Stadt, Josef gehört zur oberen Mittelklasse
 	- die Gerichtsräumlichkeiten sind paradoxerweise in einem armen Viertel
 
 ---
@@ -364,14 +334,11 @@ Vermutlich spielt sich alles in einer Stadt in Mitteleuropa, vielleicht Prag, Ka
 + **Sprache**: 
 	+ präzise, nüchtern, sachlich, unbeteiligt, aber nicht emotionslos 
 	+ keine "schwierigen" Wörter
-	+ monoperspektivisches, personales Erzählen 
 
 NOTES:
 - Sprache: 
 	- präzise, nüchtern, sachlich, unbeteiligt, aber nicht emotionslos
 	- keine "schwierigen" Wörter, nur ein paar ältere Bezeichnungen, 
-	- vermittelt ein Gefühl von Hoffnungslosigkeit
-	- monoperspektivisches, personales Erzählen
 
 ---
 
@@ -381,46 +348,46 @@ NOTES:
 	+ Karrierebeamter, Standesdünkel,
 	+ selbstzufrieden, überheblich 
 + **Advokat Huld**: 
-	+ alt, krank,
+	+ alt, kränklich,
 	+ dominant
-+ **Leni**:
++ **Pflegerin Leni**:
 	+ dominant,
-	+ sexuell-animalisch
+	+ sexuell-offen
 
 NOTES:
 * **Josef K.**:
-	* Karrierebeamter, Standesdünkel, 
+	* Karrierebeamter, Standesdünkel (fühlt sich vielen Überlegen), 
 	* selbstzufrieden, überheblich 
 * **Advokat Huld**: 
-	* alt, krank, 
+	* alt, kränklich, 
 	* dominant 
-* **Leni**:
+* **Pflegerin Leni**:
 	* dominant,
-	* sexuell-animalisch
+	* sexuell-offen
 
 ---
 
 # Figurencharakteristik
 
-- Frau Grubach: <!-- element class="fragment" -->
-	- einfach, mütterlich, <!-- element class="fragment" -->
-	- vorwitzig <!-- element class="fragment" -->
-- Fräulein Bürstner: <!-- element class="fragment" -->
-	- selbstbewusst, modern, <!-- element class="fragment" -->
-	- emanzipiert <!-- element class="fragment" -->
-- Maler Titorelli: <!-- element class="fragment" -->
-	- Bohemien, Lebenskünstler, <!-- element class="fragment" -->
-	- geschickter Taktierer <!-- element class="fragment" -->
++ **Haushälterin Frau Grubach**: 
+	+ einfach, mütterlich, 
+	+ vorwitzig 
++ **Fräulein Bürstner von nebenan**: 
+	+ selbstbewusst, modern,
+	+ emanzipiert 
++ **Maler Titorelli**: 
+	+ Bohemien, Lebenskünstler, 
+	+ geschickter Taktierer
 
 NOTES:
-- Frau Grubach: 
-	- einfach, mütterlich, 
-	- vorwitzig 
-- Fräulein Bürstner: 
+- Haushälterin Frau Grubach: 
+	- einfach gestrickt, mütterlich, 
+	- vorwitzig (frech)
+- Fräulein Bürstner von nebenan: 
 	- selbstbewusst, modern, 
-	- emanzipiert 
+	- emanzipiert (selbst bestimmt)
 - Maler Titorelli: 
-	- Bohemien, Lebenskünstler, 
+	- Bohemien (kreativ, frei und unabhängig), Lebenskünstler, 
 	- geschickter Taktierer 
 
 **Weitere Personen**: 
@@ -438,9 +405,11 @@ NOTES:
 _Auf Tafel erklären..._
 
 Zu allen Frauen, bis auf seine Vermieteten hat Josef K. einen sexuellen Zugang.  
-Zu seiner Familie hat er nicht viel Kontakt. Die wichtigste Rolle hat sein Onkel, der ihm einen Advokaten vermittelt. Der Advokat vertritt Josef etwa 2/3 des Buches.  
+Zu seiner Familie hat er nicht viel Kontakt. Die wichtigste Rolle seiner Familienmitglieder hat sein Onkel, der ihm einen Advokaten vermittelt.  
+Der Advokat Huld vertritt Josef etwa 2/3 des Buches.  
 Eine der beruflichen Freundschaften, von Josef K. verbindet Josef mit dem Gerichtsmaler Titorelli, der ihm einige Ratschläge gibt, aber anschließend gefühlt von Kafka einfach vergessen wird, obwohl er doch eine tragende Rolle gespielt haben könnte.  
-Mit dem Bankdirektor ist Josef K. gut befreundet. Den Direktor-Stellvertreter sieht er als Konkurrenten. Zu beginn versucht sich dieser mit K. zu befreunden, schlussendlich krallt er sich K.'s Klienten.
+Mit dem Bankdirektor ist Josef K. gut befreundet.  
+Den Direktor-Stellvertreter sieht er als Konkurrenten.  Zu beginn versucht sich dieser mit K. zu befreunden, schlussendlich krallt er sich K.'s Klienten.
 
 ---
 
@@ -451,10 +420,11 @@ Mit dem Bankdirektor ist Josef K. gut befreundet. Den Direktor-Stellvertreter si
 NOTES:
 > _"Jemand musste Joseph K. verleumdet haben, denn ohne daß er etwas Böses getan hätte, wurde er eines Morgens verhaftet."_
 
-Dieser Satz gehört zu den berühmtesten Romananfängen der Weltliteratur, laut der Deutsche Welle, was mich etwas verwirrte, denn so sagenhaft fand ich ihn gar nicht, aber zu meiner Kritik später noch mehr.
+Dieser Satz gehört zu den berühmtesten Romananfängen der Weltliteratur, laut der Deutsche Welle.
 
-Das Buch beginnt damit, dass Joseph K., - die meiste Zeit nur als K. im Buch bezeichnet, von einem Prozess erfährt, der gegen ihn angeleiert wurde.  
-An seinem 30. Geburtstag warten "Wächter" eines für ihn unbekannten Gerichtes in seiner Küche auf K. und verzehren genüsslich sein Frühstück. Er währe verhaftet, aber nicht festgenommen, erklären sie dem verwirrten Mann.  
+Das Buch beginnt damit, dass Joseph K., - die meiste Zeit nur als K. im Buch bezeichnet, von einem Prozess erfährt, der gegen ihn ab seinem 30. Geburtstag läuft.  
+An eben diesem 30. Geburtstag warten "Wächter" eines für ihn unbekannten Gerichtes in seiner Küche auf K. und verzehren genüsslich sein Frühstück.  
+Er währe verhaftet, aber nicht festgenommen, erklären sie dem verwirrten Mann.  
 K. wird anschließend in seinen Alltag entlassen und darf zur Bank, um seine Tätigkeit als Prokurist auszuführen.
 
 
@@ -462,7 +432,7 @@ K. wird anschließend in seinen Alltag entlassen und darf zur Bank, um seine Tä
 
 _kurze Pause..._
 
-Der Prozess zieht sich über ein ganzes Jahr und schlussendlich wird Joseph K., obwohl er bis zum Ende auf "unschuldig" plädiert mit einem Fleischermesser in einem Steinbruch hingerichtet.  
+Der Prozess zieht sich über ein ganzes Jahr und schlussendlich wird Joseph K., SPOILER, obwohl er bis zum Ende auf "unschuldig" plädiert mit einem Fleischermesser in einem Steinbruch hingerichtet.  
 Bis zum Schluss erfährt man nicht, weswegen er denn überhaupt angeklagt wurde.  
 >In Kafkas Tagebüchern schreibt Kafka übrigens, der Hauptcharakter währe schuldig.
 
@@ -491,7 +461,7 @@ Auf der Rückseite des Buches wird dieses wie folgt gepriesen:
 "Der 1914/15 entstandene und schon 1925, im Jahr nach Kafkas Tod, veröffentlichte _Process_ zählt zu den bedeutendsten Romanen des 20. Jahrhunderts."
 
 Ich persönlich finde das Buch eher durchschnittlich.  
-Es schafft es einfach nicht wirklich durchgehend spannend zu sein, wie ich finde. Es sind ein paar Logiklücken vorhanden und würde ein Autor heutzutage das selbe Buch schreiben, währe es nicht besonders erfolgreich.  
+Es schafft es einfach nicht wirklich durchgehend spannend zu sein, wie ich finde. Würde ein Autor heutzutage das selbe Buch schreiben, währe es nicht besonders erfolgreich.  
 Ich gebe 5/10 Sternen.
 
 ---
@@ -500,11 +470,11 @@ Ich gebe 5/10 Sternen.
 ## unlogische Geschichte: Ein Beispiel
 ### _Der Maler_
 > **Was ist mit dem Maler?**  
-> Kafka vergisst den Character einfach komplett, nach dem ersten Treffen.
+> Kafka vergisst den Charakter einfach komplett, nach dem ersten Treffen.
 
 NOTES:
-Eine dieser Logiklücken ergibt sich dadurch, dass Kafka den Gerichtsmaler in die Geschichte einbaut, jedoch scheinbar auf diesen vergisst, denn aus mit unerklärbaren Gründen kommt er nach dem ersten Treffen der beiden nicht mehr vor.  
-Das ist deshalb so komisch, da er auf ein zweites Treffen beharrte und Josef K. nicht abgeneigt war.  Außerdem ist er Josef K.'s einzige realistische chance auf ein erfreuliches Ende des Gerichtsprozesses.
+Kafka scheint den Gerichtsmaler den er in die Geschichte einbaut, einfach zu vergessen, denn aus mir unerklärbaren Gründen kommt er nach dem ersten Treffen der beiden nicht mehr vor.  
+Das ist deshalb so komisch, da er auf ein zweites Treffen beharrte und Josef K. nicht abgeneigt war.  Außerdem ist er Josef K.'s einzige realistische Chance auf ein erfreuliches Ende des Gerichtsprozesses.
 
 
 **semi proof via KI (kann auch gelogen sein, des san gfraster, diese KIs):**
@@ -526,8 +496,8 @@ Vielen Dank für die Klarstellung, und ich hoffe, diese Antwort ist nun korrekt 
 NOTES:
 **Film**
 * nur den Trailer gesehen
-* sieht komplett anders aus als das Buch, nur der Grundgedanke ist gleich
-* Alles ist sehr übertrieben. Wenn man das Buch gelesen hat, fühlt man sich ein bisschen hintergangen.
+* sieht komplett anders aus als das Buch, nur der Grundgedanke scheint gleich
+* Alles ist sehr übertrieben. Wenn man das Buch gelesen hat, fühlt man sich ein bisschen "hintergangen".
 
 ---
 
@@ -548,7 +518,7 @@ NOTES:
 <!-- element style="font-size: 1.25rem;" -->
 
 NOTES:
-Diese Bücher teilen mit Kafka's: “Der Process” einen ähnlichen Schreibstil, der die menschliche Psyche und die Absurdität der modernen Existenz erforscht.
+Diese Bücher teilen mit Kafka's: “Der Process” einen ähnlichen Schreibstil, der die menschliche Psyche und die Absurdität der modernen Existenz erforscht, so habe ich mir das, von meinem guten Freund: "Internet", sagen lassen.
 
 ---
 
@@ -585,3 +555,11 @@ NOTES:
 "Jeder, der sich die Fähigkeit erhält, Schönes zu erkennen, wird nie alt werden."  
 "Das Glück, das dir am meisten schmeichelt, betrügt dich am ehesten."  
 "Wege entstehen dadurch, dass man sie geht."
+
+---
+
+# Zitate
+
+> "Verbringe die Zeit nicht mit der Suche nach einem Hindernis. Vielleicht ist keines da."  
+
+> "Das Glück, das dir am meisten schmeichelt, betrügt dich am ehesten."  
